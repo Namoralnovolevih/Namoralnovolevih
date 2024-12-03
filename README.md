@@ -8,7 +8,7 @@ I’m a junior Python developer. I recently completed training courses at [Hexle
 
 ___
 ## Projects
-* **[Task Manager](https://github.com/Namoralnovolevih/task-manage)** - is a task management system similar to http://www.redmine.org/. It allows you to set tasks, assign performers and change their statuses. To work with the system, login and authentication are required.
+* **[Task Manager](https://github.com/Namoralnovolevih/task-manager)** - is a task management system similar to http://www.redmine.org/. It allows you to set tasks, assign performers and change their statuses. To work with the system, login and authentication are required.
   **Stack:** python, Django, DjangoORM, PostgreSQL, BootStrap, Rollbar, Gunicorn, render.com, poetry, GitHub, Makefile, Flake8, GitHub Actions, CodeClimate.
 * **[Page Analyzer](https://github.com/Namoralnovolevih/page-analyzer)** - is a full-fledged application based on the Flask framework. Here the basic principles of building modern websites on MVC architecture are worked out: working with routing, request handlers and a template engine, interaction with the database.
   **Stack:** python, Flask, PostgreSQL, BootStrap, Gunicorn, render.com, poetry, pytest, GitHub, Makefile, Flake8, GitHub Actions, CodeClimate.
